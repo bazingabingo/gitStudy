@@ -6,4 +6,8 @@ package com.bazinga.git;
  * @Description
  */
 public class GitApplication {
+    public static void main(String[] args) {
+        //工作区-暂存区-版本库区
+        System.out.println("测试未纳入缓存区的切换分支");
+    }
 }
