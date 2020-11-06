@@ -5,5 +5,6 @@ git命令学习专用
     git stash 
     git stash pop
 2. 代码合并
+3. 增加测试文字
     
     
