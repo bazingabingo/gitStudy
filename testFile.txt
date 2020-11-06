@@ -1,1 +1,2 @@
 我是另一个user
+测试没有pull就push，阶段二：commit改变并直接push
