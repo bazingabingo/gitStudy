@@ -5,3 +5,8 @@
 
 查看git diff命令具体信息。
 git diff
+
+测试git乱码设置
+git config --global i18n.commitencoding utf-8
+git config --global i18n.logoutputencoding utf-8
+git config --global gui.encoding utf-8
